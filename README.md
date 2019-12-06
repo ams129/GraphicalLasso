@@ -9,7 +9,7 @@ git clone https://github.com/ams129/GraphicalLasso.git
 # Usage
 Graphical Lasso can be called through the following file:
 '''bash
-GraphicalLasso.py
+* GraphicalLasso.py
 '''
 
 Parameters
