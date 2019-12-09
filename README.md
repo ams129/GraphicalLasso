@@ -19,5 +19,5 @@ Parameters
 # Example
 Running the following script provides an example of how the Graphical Lasso solver can be used:
 ```
-example.py
+sample.py
 ```
